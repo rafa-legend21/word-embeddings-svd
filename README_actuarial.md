@@ -18,7 +18,7 @@ interpretable models can encode unintended biases if not carefully evaluated.
 - Bias examination using gender-related word projections
 
 ## Key Observations
-- Embedding performance stabilizes around **k = ____**
+- Embedding performance stabilizes around **k = 300**
 - Semantic directions reveal systematic associations
 - Bias represents a form of model risk rather than noise
 

@@ -19,8 +19,8 @@ address the power-law distribution of word frequencies.
 - Evaluation via cosine similarity and analogy tasks
 
 ## Results
-- Embedding dimension: **k = 150 **
-- Analogy task accuracy: **____**
+- Embedding dimension: **k = 300 **
+- Analogy task accuracy: ** 0.606983**
 - Similarity queries retrieve semantically related words
 - Higher embedding dimensions improve analogy accuracy up to a point
 
